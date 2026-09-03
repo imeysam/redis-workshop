@@ -1,7 +1,10 @@
 # 🚀 Local Meetups & Live Chat (Redis Workshop)
 
-
-
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![Redis](https://img.shields.io/badge/Redis-8.0-red?logo=redis)
+![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)
+![License](https://img.shields.io/badge/License-MIT-green)
+   
 ## 🎓 کارگاه آموزش عملی Redis با Python
 
 یک پروژه‌ی آموزشی و عملی برای یادگیری Redis با استفاده از **Python** و کتابخانه‌ی رسمی/رایج `redis-py` که در قالب یک برنامه‌ی CLI سناریوی **رویدادهای محلی (Meetups)** را شبیه‌سازی می‌کند.
